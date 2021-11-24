@@ -1,4 +1,13 @@
-# Business Case Assessment
+In case you have chosen the **Project Idea: Mildew Detection in Cherry Leaves**, please consider the following instructions
+
+---
+
+## Repository Template
+In case you do not want to build one repo from scratch, we suggest you fork this [repo](https://github.com/Code-Institute-Solutions/milestone-project-mildew-detection-in-cherry-leaves). Once you forked you may also personalize and rename the repo if you want to.
+
+---
+
+## Business Case Assessment
 You have already conducted a business case assessment, so you can also use that information to build your project README file.
 
 * 1: What are the business requirements?	
@@ -37,9 +46,10 @@ You have already conducted a business case assessment, so you can also use that 
 * 10: How will the client benefit?		
     * The client will not supply the market with a product of compromised quality.
 
- 
 
-# Project considerations
+---
+
+## Project considerations
 * Business Requirement 1
     * Your study should include at least analysis on: (1) average image and variability image for each class (healthy or powdery mildew), and (2) an image montage for each class.
 
@@ -48,9 +58,9 @@ You have already conducted a business case assessment, so you can also use that 
     * You may use either conventional ML or Neural networks to map the relationships between the features and the target.
 
 
+---
 
-
-# Dashboard expectations
+## Dashboard expectations
 * Your dashboard should contain at least:
     * A project summary page, showing the project dataset summary and client's requirements.
     * A page listing your findings related to a study to visually differentiate a cherry leaf that is healthy and that contains powdery mildew
