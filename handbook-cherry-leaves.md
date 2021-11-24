@@ -1,4 +1,4 @@
-In case you have chosen the **Project Idea: Mildew Detection in Cherry Leaves**, please consider the following instructions
+In case you have chosen the **Project Idea: Mildew Detection in Cherry Leaves**, please consider the following instructions. We also would like to reinforce that the data source for this project is located [here](https://www.kaggle.com/codeinstitute/cherry-leaves).
 
 ---
 
