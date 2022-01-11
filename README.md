@@ -32,7 +32,7 @@ To save time in this process, the IT team suggested an ML system that is capable
 
 
 ## Unfixed Bugs
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
+* You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
 
 ## Deployment
 * This Data App wwas deployed using Heroku. The live link can be found here - https://MY_APP.herokuapp.com/
@@ -40,12 +40,10 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+* In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+* You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
 
 
 ## Acknowledgements (optional)
-In case you would like to thank the people that provided support through this project.
+* In case you would like to thank the people that provided support through this project.
