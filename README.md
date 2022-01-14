@@ -48,6 +48,10 @@ The project was deployed to Heroku using the following steps.
 6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
 
 
+## Main Data Analysis and Machine Learning Libraries
+* Here you should list the libraries you used in the project and provide example(s) on how you used these libraries.
+
+
 ## Credits 
 
 * In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
