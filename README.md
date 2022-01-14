@@ -37,15 +37,15 @@ To save time in this process, the IT team suggested an ML system that is capable
 ## Deployment
 ### Heroku
 
-The project was deployed to Heroku using the following steps.
+* The App live link is: https://YOUR_APP_NAME.herokuapp.com/ 
+* The project was deployed to Heroku using the following steps.
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
-3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+1. Log in to Heroku and create an App
+2. At the Deploy tab, select GitHub as the deployment method.
+3. Select your repository name and click Search. Once it is found, click Connect.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
-5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+5. Select the branch you want to deploy, and click Deploy Branch.
+6. The deployment process should happen smoothly in case all deployment files are fully functional. Click now the button Open App on the top of the page to access your App.
 
 
 ## Main Data Analysis and Machine Learning Libraries
