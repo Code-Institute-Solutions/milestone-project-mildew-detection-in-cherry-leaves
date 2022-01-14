@@ -43,9 +43,8 @@ To save time in this process, the IT team suggested an ML system that is capable
 1. Log in to Heroku and create an App
 2. At the Deploy tab, select GitHub as the deployment method.
 3. Select your repository name and click Search. Once it is found, click Connect.
-4. Under "Source", click the dropdown called "None" and select "Master Branch".
-5. Select the branch you want to deploy, and click Deploy Branch.
-6. The deployment process should happen smoothly in case all deployment files are fully functional. Click now the button Open App on the top of the page to access your App.
+4. Select the branch you want to deploy, then click Deploy Branch.
+5. The deployment process should happen smoothly in case all deployment files are fully functional. Click now the button Open App on the top of the page to access your App.
 
 
 ## Main Data Analysis and Machine Learning Libraries
