@@ -24,17 +24,11 @@ You can safely delete the Template Instructions section of this README.md file a
 
 1. Open a new terminal and `pip3 install -r requirements.txt`
 
-1. In the terminal, type `pip3 install jupyter`
+1. Open the jupyter_notebooks directory, and click on the notebook you want to open.
 
-1. In the terminal, type `jupyter notebook --NotebookApp.token='' --NotebookApp.password=''` to start the jupyter server.
+1. Click the kernel button and choose Python Environments.
 
-1. Open port 8888 preview or browser
-
-1. Open the jupyter_notebooks directory in the jupyter webpage that has opened, and click on the notebook you want to open.
-
-1. Click the button Not Trusted and choose Trust.
-
-Note that the kernel says Python 3. It inherits from the workspace, so it will be Python-3.8.18 as installed by our template. To confirm this, you can use `! python --version` in a notebook code cell.
+Note that the kernel says Python 3.8.18 as it inherits from the workspace, so it will be Python-3.8.18 as installed by our template. To confirm this, you can use `! python --version` in a notebook code cell.
 
 ## Cloud IDE Reminders
 
